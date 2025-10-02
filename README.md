@@ -1,5 +1,12 @@
 📊 Customer Churn Analysis – Power BI Project
 
+# Customer Churn Analysis – Power BI
+
+![Dashboard Preview](Screenshot(113).png)
+
+This project analyzes customer churn data using Power BI...
+
+
 🔹 Overview
 
 This project analyzes customer churn data using Power BI to uncover insights, calculate key performance indicators (KPIs), and provide actionable business recommendations. The dashboard is fully interactive and designed for executive decision-making.
