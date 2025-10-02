@@ -4,6 +4,9 @@
 
 ![Dashboard Preview](Screenshot(113).png)
 
+<img width="1333" height="755" alt="image" src="https://github.com/user-attachments/assets/a7166cfa-9b75-4933-92a0-aa7f8b069db6" />
+
+
 This project analyzes customer churn data using Power BI...
 
 
